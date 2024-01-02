@@ -70,6 +70,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
+
+  More stuff.
 -->
 
 ---
