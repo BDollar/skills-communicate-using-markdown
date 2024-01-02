@@ -1,5 +1,5 @@
 <header>
-
+# Header
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -70,6 +70,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
+
+  More stuff.
 -->
 
 ---
